@@ -1,5 +1,5 @@
 # hello-world
 
-Hello fellow pirates!
+Hello ordinary people!
 
-I hate snakes.
+What previously stood here was stupid.
